@@ -8,6 +8,6 @@
 
 
 # Url to download the tarball from latest master branch from github.
-default['s3cmd']['url'] = 'https://github.com/s3tools/s3cmd/archive/v1.5.0-beta1.tar.gz'
+default['s3cmd']['url'] = 'https://github.com/s3tools/s3cmd/archive/v1.5.0-rc1.tar.gz'
 default['s3cmd']['user'] = 'root'
 default['s3cmd']['config_dir'] = '/root'

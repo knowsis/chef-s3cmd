@@ -124,6 +124,4 @@ License and Authors
 -------------------
 
 Authors: Frederico Araujo (github.com/fred)
-
 Contributors: Steven Lehrburger (github.com/lehrblogger)
-Cristóbal Castillo (github.com/c-castillo)
